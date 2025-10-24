@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 50px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.section-one__contact{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 10px;
+
+}
+
+.section-one__name,.section-one__role{
+    margin-bottom: 10px;
+}
+.section-one__name{
+    font-size: 50px;
+}
+
+.section-one__role{
+    font-size: 25px;
+}
+
+
+.contact-form{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin-top: 20px;
+}
+
+.contact-form__input{
+    border: none;
+    border-bottom: solid 1px black;
+    padding: 10px;
+}
+.contact-form__textarea{
+    
+    
+    padding: 10px;
+}
+
+.contact-form__submit{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: orangered;
+    color: black;
+    border: none;
+}
+.section-five__title{
+    margin-bottom: 10px;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    height: 50px;
+}
+
+.section-five__title a{
+    color: skyblue;
+    text-decoration: none;
+}
+
